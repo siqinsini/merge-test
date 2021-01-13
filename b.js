@@ -1,4 +1,4 @@
 
-function chu(a,b){
+function division(a,b){
   return a / b
 }
