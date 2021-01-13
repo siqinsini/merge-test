@@ -1,3 +1,4 @@
-function chuyi(num1,num2){
-  return num1 / num2
+
+function chu(a,b){
+  return a /b
 }
